@@ -1,4 +1,4 @@
-# Paper: Effects of microbial community composition, genetic  potential, and physiological potential on soil basal respiration along soil quality and tree diversity gradient in subtropical forest 
+# Paper: Tree diversity and soil quality drive microbial community – ecosystem functioning linkages
 DOI:
 
 ## Description: 
