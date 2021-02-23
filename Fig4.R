@@ -1,3 +1,24 @@
+# platform       x86_64-w64-mingw32          
+# arch           x86_64                      
+# os             mingw32                     
+# system         x86_64, mingw32             
+# language       R                           
+# version.string R version 4.0.3 (2020-10-10)
+# Packages:
+#   - arm          1.11.2
+#   - tidyverse    1.3.0
+#   - readxl       1.3.1
+#   - lavaan       0.6-7
+# Attached tidyverse:
+#       - ggplot2 3.3.3
+#       - purrr   0.3.4
+#       - tibble  3.0.6 
+#       - dplyr   1.0.4
+#       - tidyr   1.1.2
+#       - stringr 1.4.0
+#       - readr   1.4.0
+#       - forcats 0.5.1
+
 rm(list = ls())
 
 #### > 0.1 Packages ####
