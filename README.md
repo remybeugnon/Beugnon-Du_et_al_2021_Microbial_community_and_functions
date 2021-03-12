@@ -1,4 +1,4 @@
-# Paper: Tree diversity and soil quality drive microbial community – ecosystem functioning linkages
+# Paper: Tree diversity and soil chemical properties drive microbial community – ecosystem functioning linkages
 DOI:
 
 ## Description: 
